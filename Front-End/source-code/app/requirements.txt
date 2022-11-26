@@ -1,0 +1,9 @@
+gunicorn
+jupyter
+pandas
+google-cloud-bigquery
+google-cloud-bigquery-storage
+google-auth
+request
+Flask
+matplotlib
