@@ -1,0 +1,271 @@
+[{
+  "forecast_timestamp": "2022-09-01 00:00:00.000000 UTC",
+  "forecast_value": "385531.13794836344",
+  "standard_error": "3915.3974844333425",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "380510.4760481941",
+  "prediction_interval_upper_bound": "390551.79984853277",
+  "confidence_interval_lower_bound": "380510.4760481941",
+  "confidence_interval_upper_bound": "390551.79984853277"
+}, {
+  "forecast_timestamp": "2022-10-01 00:00:00.000000 UTC",
+  "forecast_value": "392005.70682965661",
+  "standard_error": "5676.5355455274175",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "384726.76111553813",
+  "prediction_interval_upper_bound": "399284.6525437751",
+  "confidence_interval_lower_bound": "384726.76111553813",
+  "confidence_interval_upper_bound": "399284.6525437751"
+}, {
+  "forecast_timestamp": "2022-11-01 00:00:00.000000 UTC",
+  "forecast_value": "392252.23133863247",
+  "standard_error": "7124.18087988022",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "383116.98934705061",
+  "prediction_interval_upper_bound": "401387.47333021433",
+  "confidence_interval_lower_bound": "383116.98934705061",
+  "confidence_interval_upper_bound": "401387.47333021433"
+}, {
+  "forecast_timestamp": "2022-12-01 00:00:00.000000 UTC",
+  "forecast_value": "392871.53312349715",
+  "standard_error": "8426.0802205778873",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "382066.8829955298",
+  "prediction_interval_upper_bound": "403676.18325146451",
+  "confidence_interval_lower_bound": "382066.8829955298",
+  "confidence_interval_upper_bound": "403676.18325146451"
+}, {
+  "forecast_timestamp": "2023-01-01 00:00:00.000000 UTC",
+  "forecast_value": "392608.24507359206",
+  "standard_error": "9645.3863591039335",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "380240.09496926755",
+  "prediction_interval_upper_bound": "404976.39517791657",
+  "confidence_interval_lower_bound": "380240.09496926755",
+  "confidence_interval_upper_bound": "404976.39517791657"
+}, {
+  "forecast_timestamp": "2023-02-01 00:00:00.000000 UTC",
+  "forecast_value": "395766.00277176779",
+  "standard_error": "10813.588756802104",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "381899.88233540725",
+  "prediction_interval_upper_bound": "409632.12320812832",
+  "confidence_interval_lower_bound": "381899.88233540725",
+  "confidence_interval_upper_bound": "409632.12320812832"
+}, {
+  "forecast_timestamp": "2023-03-01 00:00:00.000000 UTC",
+  "forecast_value": "408484.84103340114",
+  "standard_error": "11948.861763022565",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "393162.9751838909",
+  "prediction_interval_upper_bound": "423806.70688291139",
+  "confidence_interval_lower_bound": "393162.9751838909",
+  "confidence_interval_upper_bound": "423806.70688291139"
+}, {
+  "forecast_timestamp": "2023-04-01 00:00:00.000000 UTC",
+  "forecast_value": "414527.03465330444",
+  "standard_error": "13062.697389965399",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "397776.91225577414",
+  "prediction_interval_upper_bound": "431277.15705083474",
+  "confidence_interval_lower_bound": "397776.91225577414",
+  "confidence_interval_upper_bound": "431277.15705083474"
+}, {
+  "forecast_timestamp": "2023-05-01 00:00:00.000000 UTC",
+  "forecast_value": "414616.60685125948",
+  "standard_error": "14162.831532036882",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "396455.79713676241",
+  "prediction_interval_upper_bound": "432777.41656575655",
+  "confidence_interval_lower_bound": "396455.79713676241",
+  "confidence_interval_upper_bound": "432777.41656575655"
+}, {
+  "forecast_timestamp": "2023-06-01 00:00:00.000000 UTC",
+  "forecast_value": "419856.67851693841",
+  "standard_error": "15254.713938144949",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "400295.76257629012",
+  "prediction_interval_upper_bound": "439417.5944575867",
+  "confidence_interval_lower_bound": "400295.76257629012",
+  "confidence_interval_upper_bound": "439417.5944575867"
+}, {
+  "forecast_timestamp": "2023-07-01 00:00:00.000000 UTC",
+  "forecast_value": "418207.24545267207",
+  "standard_error": "16342.318142931825",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "397251.709166287",
+  "prediction_interval_upper_bound": "439162.78173905716",
+  "confidence_interval_lower_bound": "397251.709166287",
+  "confidence_interval_upper_bound": "439162.78173905716"
+}, {
+  "forecast_timestamp": "2023-08-01 00:00:00.000000 UTC",
+  "forecast_value": "418407.34857126628",
+  "standard_error": "17428.619854968892",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "396058.86210820131",
+  "prediction_interval_upper_bound": "440755.83503433125",
+  "confidence_interval_lower_bound": "396058.86210820131",
+  "confidence_interval_upper_bound": "440755.83503433125"
+}, {
+  "forecast_timestamp": "2023-09-01 00:00:00.000000 UTC",
+  "forecast_value": "416277.65947502037",
+  "standard_error": "18515.895301630659",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "392534.97422837152",
+  "prediction_interval_upper_bound": "440020.34472166921",
+  "confidence_interval_lower_bound": "392534.97422837152",
+  "confidence_interval_upper_bound": "440020.34472166921"
+}, {
+  "forecast_timestamp": "2023-10-01 00:00:00.000000 UTC",
+  "forecast_value": "423263.15866811649",
+  "standard_error": "19605.915607139061",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "398122.75494204514",
+  "prediction_interval_upper_bound": "448403.56239418784",
+  "confidence_interval_lower_bound": "398122.75494204514",
+  "confidence_interval_upper_bound": "448403.56239418784"
+}, {
+  "forecast_timestamp": "2023-11-01 00:00:00.000000 UTC",
+  "forecast_value": "423272.53838695539",
+  "standard_error": "20700.078071413416",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "396729.10474659869",
+  "prediction_interval_upper_bound": "449815.97202731209",
+  "confidence_interval_lower_bound": "396729.10474659869",
+  "confidence_interval_upper_bound": "449815.97202731209"
+}, {
+  "forecast_timestamp": "2023-12-01 00:00:00.000000 UTC",
+  "forecast_value": "423828.75102003984",
+  "standard_error": "21799.497542825757",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "395875.54647535738",
+  "prediction_interval_upper_bound": "451781.9555647223",
+  "confidence_interval_lower_bound": "395875.54647535738",
+  "confidence_interval_upper_bound": "451781.9555647223"
+}, {
+  "forecast_timestamp": "2024-01-01 00:00:00.000000 UTC",
+  "forecast_value": "424425.54924808943",
+  "standard_error": "22905.071662387105",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "395054.68177596136",
+  "prediction_interval_upper_bound": "453796.4167202175",
+  "confidence_interval_lower_bound": "395054.68177596136",
+  "confidence_interval_upper_bound": "453796.4167202175"
+}, {
+  "forecast_timestamp": "2024-02-01 00:00:00.000000 UTC",
+  "forecast_value": "427321.04547215108",
+  "standard_error": "24017.528485973347",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "396523.68947313185",
+  "prediction_interval_upper_bound": "458118.40147117031",
+  "confidence_interval_lower_bound": "396523.68947313185",
+  "confidence_interval_upper_bound": "458118.40147117031"
+}, {
+  "forecast_timestamp": "2024-03-01 00:00:00.000000 UTC",
+  "forecast_value": "440748.60488682904",
+  "standard_error": "25137.4619136397",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "408515.17321136431",
+  "prediction_interval_upper_bound": "472982.03656229377",
+  "confidence_interval_lower_bound": "408515.17321136431",
+  "confidence_interval_upper_bound": "472982.03656229377"
+}, {
+  "forecast_timestamp": "2024-04-01 00:00:00.000000 UTC",
+  "forecast_value": "446480.15395651758",
+  "standard_error": "26265.358491903131",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "412800.43556295271",
+  "prediction_interval_upper_bound": "480159.87235008244",
+  "confidence_interval_lower_bound": "412800.43556295271",
+  "confidence_interval_upper_bound": "480159.87235008244"
+}, {
+  "forecast_timestamp": "2024-05-01 00:00:00.000000 UTC",
+  "forecast_value": "445516.51567272033",
+  "standard_error": "27401.617990799517",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "410379.78689962305",
+  "prediction_interval_upper_bound": "480653.2444458176",
+  "confidence_interval_lower_bound": "410379.78689962305",
+  "confidence_interval_upper_bound": "480653.2444458176"
+}, {
+  "forecast_timestamp": "2024-06-01 00:00:00.000000 UTC",
+  "forecast_value": "450423.88052209635",
+  "standard_error": "28546.569409824177",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "413818.99583637557",
+  "prediction_interval_upper_bound": "487028.76520781714",
+  "confidence_interval_lower_bound": "413818.99583637557",
+  "confidence_interval_upper_bound": "487028.76520781714"
+}, {
+  "forecast_timestamp": "2024-07-01 00:00:00.000000 UTC",
+  "forecast_value": "448551.61838978867",
+  "standard_error": "29700.483574690425",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "410467.08498215833",
+  "prediction_interval_upper_bound": "486636.151797419",
+  "confidence_interval_lower_bound": "410467.08498215833",
+  "confidence_interval_upper_bound": "486636.151797419"
+}, {
+  "forecast_timestamp": "2024-08-01 00:00:00.000000 UTC",
+  "forecast_value": "449208.65628707677",
+  "standard_error": "30863.583155703247",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "409632.6958210927",
+  "prediction_interval_upper_bound": "488784.61675306084",
+  "confidence_interval_lower_bound": "409632.6958210927",
+  "confidence_interval_upper_bound": "488784.61675306084"
+}, {
+  "forecast_timestamp": "2024-09-01 00:00:00.000000 UTC",
+  "forecast_value": "447024.18100167729",
+  "standard_error": "32036.050711335087",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "405944.7810486044",
+  "prediction_interval_upper_bound": "488103.58095475018",
+  "confidence_interval_lower_bound": "405944.7810486044",
+  "confidence_interval_upper_bound": "488103.58095475018"
+}, {
+  "forecast_timestamp": "2024-10-01 00:00:00.000000 UTC",
+  "forecast_value": "454520.61050657643",
+  "standard_error": "33218.035201901854",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "411925.567627856",
+  "prediction_interval_upper_bound": "497115.65338529687",
+  "confidence_interval_lower_bound": "411925.567627856",
+  "confidence_interval_upper_bound": "497115.65338529687"
+}, {
+  "forecast_timestamp": "2024-11-01 00:00:00.000000 UTC",
+  "forecast_value": "454292.84543527832",
+  "standard_error": "34409.657305607456",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "410169.80144830252",
+  "prediction_interval_upper_bound": "498415.88942225411",
+  "confidence_interval_lower_bound": "410169.80144830252",
+  "confidence_interval_upper_bound": "498415.88942225411"
+}, {
+  "forecast_timestamp": "2024-12-01 00:00:00.000000 UTC",
+  "forecast_value": "454785.96891658258",
+  "standard_error": "35611.013788104356",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "409122.44155743986",
+  "prediction_interval_upper_bound": "500449.49627572531",
+  "confidence_interval_lower_bound": "409122.44155743986",
+  "confidence_interval_upper_bound": "500449.49627572531"
+}, {
+  "forecast_timestamp": "2025-01-01 00:00:00.000000 UTC",
+  "forecast_value": "456242.85342258686",
+  "standard_error": "36822.181117501656",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "409026.26237333077",
+  "prediction_interval_upper_bound": "503459.44447184296",
+  "confidence_interval_lower_bound": "409026.26237333077",
+  "confidence_interval_upper_bound": "503459.44447184296"
+}, {
+  "forecast_timestamp": "2025-02-01 00:00:00.000000 UTC",
+  "forecast_value": "458876.08817253436",
+  "standard_error": "38043.218472989633",
+  "confidence_level": "0.8",
+  "prediction_interval_lower_bound": "410093.77723053296",
+  "prediction_interval_upper_bound": "507658.39911453577",
+  "confidence_interval_lower_bound": "410093.77723053296",
+  "confidence_interval_upper_bound": "507658.39911453577"
+}]

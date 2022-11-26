@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Housing Market App</title>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+   body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+    
+        h1{text-align:center;background-color:#85C1E9;}
+    </style>
+</head>
+<body  class="w3-light-grey">
+
+<div class="w3-content" style="max-width:1400px">
+<header class="w3-container w3-center w3-padding-32"> 
+<h1><b>Housing Market App</b></h1>
+<p> The U.S. housing market in a major indcator of status of the country's economy. The purchase of a real estate property has long been considered as an investment as the cost of property has shown to increase over time. House sales are determined based on house price indices that reflect the trends of the US housing market. Factors such as inventory supply, property type, and location are some of the many factors that can play a role in the valuation of a property. In today's immensely competive housing market, using the right tools can provide real estate companies the competive edge to gain valuable insights. Machine learning is transforming the real estate industry by allowing customers to make more informed decisions. The year 2022 was predicted to be a prosperous year for the housing market but factors such as rising inflation and mortgage rates changed its outlook completely.</p>
+
+</header>
+
+<!-- Grid -->
+<div class="w3-row">
+
+<!-- Prediction entries -->
+<div class="w3-container w3-center w3-padding-32">
+    <!-- Prediction entry -->
+    <div class="w3-card-4 w3-margin w3-white">
+      <img src="https://investorplace.com/wp-content/uploads/2022/06/housingmarket1600-1536x864.png" width="100%" height="300">
+      
+      <div class="w3-container">
+        <h3><b>Predicting Home Sale Price</b></h3>
+        <h5>Data provided by Redfin, a national real estate brokerage. <span class="w3-opacity">Updated as of end of October 2022</span></h5>
+      </div>
+
+      <div class="w3-container">
+        <p>The goal of this project is to leverage cloud-based services from platforms such as Google Cloud to develop and test machine learning (ML) models that can provide predictive insights on the housing prices.
+            The data used to train and test these models were obtained from the Redfin Data Center that contains downloadable housing market datasets. The 'State' dataset is stored in Google's cloud storage where it 
+            can then be access by Bigquery to train and deploy ML models with a simple SQL interface. BigQuery allows you to simplify data integration, cost effectively and securely scale analytics while optimizing
+            the waiting time on larger and more complex queries. For this application a linear regression model was developed to train and test on > 21,000 rows of data and the ML.PREDICT function is used to predict price outcomes using the model. 
+            The graph below compares the predicted values of the model to the actual price for the states with the highest housing market prices. 
+        </p>
+          <form action="/" method="POST">
+            State: <input type="character" name='state' placeholder="Enter state"><br>
+            Property Type: <input type="character" name='property_type' placeholder="Enter property type ex. Condo"><br>
+            Median Price/SqFt: <input type="number" name='median_ppsf' placeholder="Enter median price/square foot"><br>
+            Predicted Price: <input type="number" name='predicted_median_sale_price' placeholder="Model's price prediction"><br>
+            
+        </form>
+        <div class="w3-card-4 w3-margin w3-white">
+            <img src="https://i.ibb.co/M2bZDHX/Screenshot-2022-11-25-at-6-02-48-PM.png" width="100%" height="600">
+
+        
+          </div>
+        </div>
+      </div>
+    </div>
+   
+    <div class="w3-row">
+    <div class="w3-container w3-center w3-padding-32">
+
+    <div class="w3-card-4 w3-margin w3-white">
+        <!-- Prediction entry -->
+        <div class="w3-container">
+          <h3><b>Forecasting Home Prices Through 2025</b></h3>
+      
+          <img src="https://i.ibb.co/9bPHjVd/Screenshot-2022-11-25-at-5-42-41-PM.png" width="100%" height="400">
+          
+    
+            <h5> <span class="w3-opacity">Bigquery trained time series ARIMA model to forecast average home prices </span></h5>
+          </div>
+    
+          <div class="w3-container">
+            <p>This time-series model will make a forecast of the average median house price in the U.S for the next 30 months using BigQuery ML's time series model.
+               The auto.ARIMA algorithm performs hyperparameter tuning for the trend module.</p>
+              
+        </div>
+    </div>
+
+
+
+  
+
+<h2>Data Exploration</h2>
+<div class="w3-row">
+
+    <img src = "https://www.redfin.com/graphs/image/national-housing-market/migration/US/11" width="800" height="600">
+</div>
+
+<iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/55574faf-b0b9-4671-8c36-978abcd30b1a/page/tEnnC" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+</body>
+</html>
