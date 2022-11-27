@@ -11,34 +11,27 @@ Alternately, if using AutoML, data can be tutorial data or custom data Links to 
 
 The main idea is for you to think about starting to create a portfolio.
 
-Project Requirements
-Source code stored in Github
-Continuous Deployment from CircleCI
-Data stored in GCP (BigQuery, Google Cloud Storage, etc.)
-ML predictions created and served out (AutoML, BigQuery, etc.)
-Stackdriver installed for monitoring
-Google App Engine serves out HTTP requests via REST API with a JSON payload
-Deployed into GCP environment
-A two-page, single-spaced paper describing the project as a consultant would describe it to a client during the hand-off phase.
+Project Requirements:
+*Source code stored in Github
+*Continuous Deployment from CircleCI or Github
+*Data stored in GCP (BigQuery, Google Cloud Storage, etc.)
+*ML predictions created and served out (AutoML, BigQuery, etc.)
+*Stackdriver installed for monitoring
+*Google App Engine serves out HTTP requests via REST API with a JSON payload
+*Deployed into GCP environment
+*A two-page, single-spaced paper describing the project as a consultant would describe it to a client during the hand-off phase.
  
-
 Checklist
 1. ML
-
 Does application do ML inference? 
 2. DevOps
-
 Are there separate environments?
 Is there comprehensive monitoring and alerts?
 3. Data
-
 Is the correct Datastore used?
 4. Security
-
 Does the principle of least security apply?
 5. Is data encrypted in transit?
-
-
 
 Redfin is a real estate brokerage, meaning we have direct access to data from local multiple listing services, as well as insight from our real estate agents across the country. 
 That’s why we’re able to give you the earliest and most reliable data on the state of the housing market. We publish existing industry data faster, and offer additional data on tours and offers that no one else has. 
