@@ -42,11 +42,34 @@
             the waiting time on larger and more complex queries. For this application a linear regression model was developed to train and test on > 21,000 rows of data and the ML.PREDICT function is used to predict price outcomes using the model. 
             The graph below compares the predicted values of the model to the actual price for the states with the highest housing market prices. 
         </p>
+        <style>
+            div {
+              margin-bottom: 15px;
+            }
+            label {
+              display: inline-block;
+              width: 200px;
+              text-align: left;
+            }
+            input {
+            padding: 5px 20px;
+            }
+          </style>
           <form action="/" method="POST">
             State: <input type="character" name='state' placeholder="Enter state"><br>
-            Property Type: <input type="character" name='property_type' placeholder="Enter property type ex. Condo"><br>
             Median Price/SqFt: <input type="number" name='median_ppsf' placeholder="Enter median price/square foot"><br>
-            Predicted Price: <input type="number" name='predicted_median_sale_price' placeholder="Model's price prediction"><br>
+            Property Type: <input type="radio" name='property_type' id="Condo/Co-op" value="Condo/Co-op">
+            <label for="Condo/Co-op">Condo/Co-op</label><br>
+            <input type="radio" name='property_type' id="Multi-Family (2-4 Unit)" value="Multi-Family (2-4 Unit)">
+            <label for="Multi-Family (2-4 Unit)">Multi-Family (2-4 Unit)</label><br>
+            <input type="radio" name='property_type' id="Single-Family Residential" value="Single-Family Residential">
+            <label for="Single-Family Residential">Single-Family Residential</label><br>
+            <input type="radio" name='property_type' id="Townhouse" value="Townhouse">
+            <label for="Townhouse">Townhouse</label><br>
+            <input type="radio" name='property_type' id="Single-Units Only" value="Single-Units Only">
+            <label for="Single-Units Only">Single-Units Only</label><br>
+            <input type="submit" value="Submit"><br>
+        <div>Predicted Price: <input type="number" name='predicted_median_sale_price' placeholder="Model's price prediction"></div>
             
         </form>
         <div class="w3-card-4 w3-margin w3-white">
