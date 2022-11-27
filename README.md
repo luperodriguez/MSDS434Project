@@ -36,7 +36,7 @@ Is the correct Datastore used?
 4. Security
 
 Does the principle of least security apply?
-Is data encrypted in transit?
+5. Is data encrypted in transit?
 
 
 
